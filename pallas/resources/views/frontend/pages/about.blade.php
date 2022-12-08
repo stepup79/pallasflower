@@ -27,7 +27,7 @@ Giới thiệu - Pallas
                     </h3>
 
                     <p class="stext-113 cl6 p-b-26">
-                        Đó là câu hỏi mà tôi đã đặt ra cho bản thân mỗi sáng thức giấc. Vào cuối năm 2019, với Pallas Flower, 
+                        Đó là câu hỏi mà tôi đã đặt ra cho bản thân mỗi sáng thức giấc. Vào cuối năm 2022, với Pallas Flower, 
                         chúng tôi đã tìm ra được câu trả lời cho chính mình. Pallas Flower được thành lập vì chúng tôi tin 
                         rằng “Hạnh phúc là được yêu thương, chia sẻ và quan tâm mỗi ngày.” Thông qua các sản phẩm đột phá 
                         từ hoa tươi, trái cậy, kẹo bông gòn, chocolate…Chúng tôi muốn tạo ra những sản phẩm hoa và quà tặng 

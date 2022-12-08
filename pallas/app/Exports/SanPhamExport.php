@@ -43,7 +43,7 @@ class SanPhamExport implements FromView, WithDrawings, WithEvents, ShouldAutoSiz
         $drawingLogo = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
         $drawingLogo->setName('Logo');
         $drawingLogo->setDescription('Logo');
-        $drawingLogo->setPath(public_path('storage/img/logo.jpg'));
+        $drawingLogo->setPath(public_path('storage/img/pallas.png'));
         $drawingLogo->setHeight(120);
         $drawingLogo->setCoordinates('D4');
         $offsetX = 90; //pixels

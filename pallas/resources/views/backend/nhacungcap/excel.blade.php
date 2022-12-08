@@ -33,7 +33,7 @@
                     {{-- Khi xuất file Excel, muốn chèn hình ảnh phải sử dụng đường dẫn PATH bằng hàm public_path() --}}
                     
                     {{-- Nếu muốn debug để xem mẫu in, bỏ comment dòng dưới đây --}}
-                    {{-- <img src="{{ asset('storage/img/logo.jpg') }}" /> --}}
+                    {{-- <img src="{{ asset('storage/img/pallas.png') }}" /> --}}
                 </td>
             </tr>
             <tr>

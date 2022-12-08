@@ -52,7 +52,7 @@
                     Shop Hoa tươi Pallas<br />
                     http://homepallas.vn/<br />
                     (0292)3.665.012 # 0939.860.197<br />
-                    <img src="{{ asset('storage/img/logo.jpg') }}" class="companyImg" />
+                    <img src="{{ asset('storage/img/pallas.png') }}" class="companyImg" />
                 </td>
             </tr>
         </table>

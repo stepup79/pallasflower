@@ -1,7 +1,7 @@
 <table style="width: 100%; border-spacing: 0px">
     <tr>
         <td style="border-top: 1px solid black;border-bottom: 1px solid black;border-right: 1px solid black;border-left: 1px solid black; width: 153px; padding: 5px;">
-            <img src="https://i0.wp.com/s1.uphinh.org/2021/02/22/logo.jpg" style="width: 153px; height: 153px;" />
+            <img src="https://uphinh.vn/images/2022/12/08/5212e568605b451cf1b4c398252284c8.png" style="width: 153px; height: 153px;" />
         </td>
         <td style="border-top: 1px solid black;border-bottom: 1px solid black;border-right: 1px solid black; text-align: center; vertical-align: middle; padding: 5px;" colspan="3">
             <h1>PALLAS FLOWER</h1>

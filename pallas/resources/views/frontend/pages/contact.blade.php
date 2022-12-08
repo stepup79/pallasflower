@@ -77,7 +77,7 @@ Liên hệ - Pallas
                         </span>
 
                         <p class="stext-115 cl6 size-213 p-t-18">
-                            130 Xô Viết Nghệ Tỉnh, Phường An Hội, Quận Ninh Kiều, TP Cần Thơ
+                            9Đ Cách Mạng Tháng 8, Phường An Hòa, Quận Ninh Kiều, TP Cần Thơ
                         </p>
                     </div>
                 </div>
@@ -122,7 +122,7 @@ Liên hệ - Pallas
                 <h2 class="mtext-105 cl2">Địa chỉ liên hệ</h2>
             </div>
             <div class="col-md-12">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.723612696626!2d105.78061631534743!3d10.03965089282403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a062a768a8090b%3A0x4756d383949cafbb!2zMTMwIFjDtCBWaeG6v3QgTmdo4buHIFTEqW5oLCBBbiBI4buZaSwgTmluaCBLaeG7gXUsIEPhuqduIFRoxqEsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1544352305719" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1908.3664674478205!2d105.77259263304111!3d10.05215546752801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a087e3a7a82893%3A0x9bff806f3142bf87!2zVHLGsOG7nW5nIENhbyDEkeG6s25nIEtpbmggdOG6vyAtIEvhu7kgdGh14bqtdCBD4bqnbiBUaMah!5e0!3m2!1svi!2s!4v1670470169544!5m2!1svi!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div>

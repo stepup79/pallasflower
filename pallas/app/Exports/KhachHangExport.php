@@ -39,7 +39,7 @@ class KhachHangExport implements FromView, WithDrawings, WithEvents, ShouldAutoS
         $drawingLogo = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
         $drawingLogo->setName('Logo');
         $drawingLogo->setDescription('Logo');
-        $drawingLogo->setPath(public_path('storage/img/logo.jpg'));
+        $drawingLogo->setPath(public_path('storage/img/pallas.png'));
         $drawingLogo->setHeight(100);
         $drawingLogo->setCoordinates('F4');
         $offsetX = -10; //pixels

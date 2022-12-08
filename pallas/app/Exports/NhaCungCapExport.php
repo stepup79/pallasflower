@@ -39,7 +39,7 @@ class NhaCungCapExport implements FromView, WithDrawings, WithEvents, ShouldAuto
         $drawingLogo = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
         $drawingLogo->setName('Logo');
         $drawingLogo->setDescription('Logo');
-        $drawingLogo->setPath(public_path('storage/img/logo.jpg'));
+        $drawingLogo->setPath(public_path('storage/img/pallas.png'));
         $drawingLogo->setHeight(100);
         $drawingLogo->setCoordinates('D4');
         $offsetX = 100; //pixels

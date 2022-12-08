@@ -41,7 +41,7 @@ class LoaiExport implements FromView, WithDrawings, WithEvents, ShouldAutoSize
         $drawingLogo = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
         $drawingLogo->setName('Logo');
         $drawingLogo->setDescription('Logo');
-        $drawingLogo->setPath(public_path('storage/img/logo.jpg'));
+        $drawingLogo->setPath(public_path('storage/img/pallas.png'));
         $drawingLogo->setHeight(100);
         $drawingLogo->setCoordinates('B4');
         $offsetX = 80; //pixels

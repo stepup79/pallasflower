@@ -52,7 +52,7 @@
                     Công ty Hoa tươi Pallas<br />
                     http://pallas.vn/<br />
                     (0292)3.888.999 # 01.222.888.999<br />
-                    <img src="{{ asset('storage/img/logo.jpg') }}" class="companyImg" />
+                    <img src="{{ asset('storage/img/pallas.png') }}" class="companyImg" />
                 </td>
             </tr>
         </table>

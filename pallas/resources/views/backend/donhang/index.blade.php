@@ -14,8 +14,7 @@ Danh mục Đơn hàng
     @endforeach
 </div>
 
-<!-- Tạo nút thêm mới -->
-<a href="{{ route('admin.donhang.create') }}" class="btn btn-primary">Thêm mới</a>
+
 <!-- Tạo nút xem biểu mẫu khi in trên web -->
 <a class="btn btn-outline-primary" href="{{ route('admin.donhang.print') }}">In ấn</a>
 <!-- Tạo nút xuất ra bản in file Excel trên web -->
@@ -61,7 +60,7 @@ Danh mục Đơn hàng
             <td>{{ $dh->dh_taoMoi }}</td>
             <td>{{ $dh->dh_capNhat }}</td>
             <td>
-                <a href="{{ route('admin.donhang.edit', ['id' => $dh->dh_id]) }}" class="btn btn-warning">Sửa</a>
+                
                 <form method="POST" action="{{ route('admin.donhang.destroy', ['id' => $dh->dh_id]) }}">
                     <input type="hidden" name="_method" value="DELETE"/>
                     {{ csrf_field() }}

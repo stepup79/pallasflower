@@ -42,7 +42,7 @@ Shop Hoa tươi - Pallas
             <div class="col-11 col-md-5 col-lg-4 m-lr-auto">
                 <div class="how-bor1 ">
                     <div class="hov-img0">
-                        <img src="{{ asset('storage/img//banner-01.jpg') }}" alt="IMG">
+                        <img src="{{ asset('storage/img/banner-01.jpg') }}" alt="IMG">
                     </div>
                 </div>
             </div>

@@ -39,7 +39,7 @@ class DonHangExport implements FromView, WithDrawings, WithEvents, ShouldAutoSiz
         $drawingLogo = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
         $drawingLogo->setName('Logo');
         $drawingLogo->setDescription('Logo');
-        $drawingLogo->setPath(public_path('storage/img/logo.jpg'));
+        $drawingLogo->setPath(public_path('storage/img/pallas.png'));
         $drawingLogo->setHeight(100);
         $drawingLogo->setCoordinates('G4');
         $offsetX = -20; //pixels

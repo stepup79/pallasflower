@@ -19,7 +19,7 @@ Biểu mẫu Phiếu in danh mục Chủ đề
                     Hoa tươi Pallas<br />
                     http://homepallas.vn/<br />
                     (0292)3.665.012 # 0939.860.197<br />
-                    <img class="img-logo" src="{{ asset('storage/img/logo.jpg') }}" />
+                    <img class="img-logo" src="{{ asset('storage/img/pallas.png') }}" />
                 </td>
             </tr>
         </table>
