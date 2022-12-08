@@ -13,7 +13,7 @@ git clone https://github.com/stepup79/pallasflower.git
 ```
 
 Tải thư mục public bỏ vào đường dẫn pallas/storage/app/
-https://drive.google.com/drive/folders/1Av5ARHwR9oA1nDCRA0c3MUX9kAJS1LJL?usp=sharing
+https://drive.google.com/file/d/17uLp0b8Ln8QUlejPF7MVXFMy8eKCG6Ps/view?usp=sharing
 
 Để lấy hình ảnh từ public
 Mở cmd từ thư mục dự án chạy lệnh: php artisan storage:link
@@ -33,6 +33,7 @@ DB_PASSWORD=
 ```
 
 ## Step 3: Tạo database, thực hiện migrate
+- Sử dụng công cụ heidisql cấu hình nhẹ, dễ sử dụng
 - Tạo database homepallas, chuẩn bảng mã `utf8mb4_unicode_ci`
 - Thực thi câu lệnh khởi tạo cấu trúc bảng
 ```
@@ -46,7 +47,10 @@ php artisan db:seed
 ```
 
 ## Step 5: chạy server
-- Mở cmd từ thư mục dự án chạy lệnh: php artisan serve
+- Thực thi câu lệnh:
+```
+php artisan serve
+```
 
 ## Step 6: thông tin tài khoản truy cập hệ thống
 Tài khoản Admin:
