@@ -1,10 +1,6 @@
 # project pallasflower
 Đồ án website thương mại điện tử shop Hoa tươi Pallas
 
-# Thông tin về Tác giả
-Mã sinh viên: CK21V7K029
-Họ tên: Hồ Duy Thái
-
 # Hướng dẫn cách sử dụng dự án
 ## Step 1: Clone source dự án
 Thực thi câu lệnh sau:
